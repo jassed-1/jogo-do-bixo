@@ -58,12 +58,3 @@ if bixo_sorteado == bi:
 if bixo_sorteado != b:
   if bixo_sorteado != bi:
     print('voce perdeu!') 
-
-
-
-#for animais in range (0,25):
-#  if b in animais:
-#    for b in range (0,4):
-#       if b == mi :
-#         print('boa')
-        
