@@ -6,10 +6,10 @@ um programa que simula o famoso jogo de apostas 'jogo do bixo'
 
 ----
 
-Compilação
+Executar
 ----------
 
-Efetuar a compilação do código-fonte:
+Efetuar a Execuçao do código-fonte:
 
 
         $ python3 cassini
