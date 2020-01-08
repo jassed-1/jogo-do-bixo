@@ -27,10 +27,10 @@ simular um jogo de aposta conhecido como jogo do bixo
 Exemplos
 --------
 
-bixo1:veado
-bixo2:gato 
+    bixo1:veado
+    bixo2:gato 
 
-bixo_sorteado1:porco
-bixo_sorteado2:rato
+    bixo_sorteado1:porco
+    bixo_sorteado2:rato
 
-voce perdeu
+    voce perdeu
